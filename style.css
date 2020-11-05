@@ -3,3 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
+header h1 {
+  text-align: center;
+}
+figure {
+  text-align: center;
+  margin: auto;
+}
+nav a {
+  background: grey;
+  text-align: center;
+}
