@@ -6,11 +6,15 @@ body {
 header h1 {
   text-align: center;
 }
-figure {
+section figure {
   text-align: center;
   margin: auto;
 }
 nav a {
   background: grey;
+  text-align: center;
+}
+section figcaption {
+  font-size: 12px;
   text-align: center;
 }
