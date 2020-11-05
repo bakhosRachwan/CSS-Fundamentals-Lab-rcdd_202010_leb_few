@@ -28,8 +28,8 @@ section figcaption {
 #details div {
   background: red;
   display: inline-block;
-  float: none;
+  float: left;
   text-align: center;
   padding: 20px;
-  margin-bottom: 25%;
+  margin-top: 25%;
 }
