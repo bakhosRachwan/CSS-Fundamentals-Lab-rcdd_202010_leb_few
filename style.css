@@ -26,10 +26,13 @@ section figcaption {
   margin: auto;
 }
 #details div {
-  background: red;
   display: inline-block;
   float: left;
   text-align: center;
-  margin: 0;
+
+}
+#details {
+  background: red;
   margin-bottom: 25%;
+  margin: 0;
 }
