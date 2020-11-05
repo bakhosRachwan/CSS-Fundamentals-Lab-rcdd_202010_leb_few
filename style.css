@@ -27,4 +27,5 @@ section figcaption {
 }
 .details div {
   display: inline;
+  width: 25%;
 }
