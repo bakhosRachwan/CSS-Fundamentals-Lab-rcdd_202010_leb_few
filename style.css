@@ -12,8 +12,9 @@ section figure {
 }
 nav a {
   background: grey;
+}
+nav{
   text-align: center;
-  margin: auto;
 }
 section figcaption {
   font-size: 12px;
