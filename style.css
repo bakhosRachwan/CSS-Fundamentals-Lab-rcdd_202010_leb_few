@@ -18,6 +18,10 @@ section figcaption {
   font-size: 12px;
   text-align: center;
 }
+#featured-property p {
+  text-align: center;
+  width: 800px;
+}
 #details div {
   display: inline;
 }
