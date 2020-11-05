@@ -25,6 +25,6 @@ section figcaption {
   width: 800px;
   margin: auto;
 }
-#details div {
+.details div {
   display: inline;
 }
