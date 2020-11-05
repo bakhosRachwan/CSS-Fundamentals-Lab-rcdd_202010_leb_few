@@ -12,6 +12,7 @@ section figure {
 }
 nav a {
   background: grey;
+  padding: 0 10px 0 10px;
 }
 nav{
   text-align: center;
